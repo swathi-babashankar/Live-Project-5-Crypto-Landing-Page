@@ -14,4 +14,4 @@ Around 4 Hours.
 
 ## Project Final Look
 
-![crypto landing page](./screenshot.png)
+![crypto landing page](./actual-screenshot.png)
